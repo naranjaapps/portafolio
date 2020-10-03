@@ -4,7 +4,7 @@ body{
 
 #content{
     background-image: url('images//laptop.png');
-    height: 200hv;
+    height: 100vh;
     width: 50%;
     background-size: contain;
     background-repeat: no-repeat;
